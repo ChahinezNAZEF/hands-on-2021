@@ -1,0 +1,19 @@
+
+data1 : "C:/Users/chahinez/Documents/hands-on-2021/GTSRB/GTSRB/Final_Training/Images/*/*.csv"
+model_path : "C:/Users/chahinez/Documents/hands-on-2021/models/traffic_signs"
+
+
+test_size: 0.2
+random_state : 42 
+batch_size: 32
+epochs: 15
+N : 1000
+optimizer : "adam"
+activation: "relu"
+activation_L : "softmax"
+Dropout_rate1 : 0.25
+Dropout_rate2: 0.25
+Dropout_rate3 : 0.5 
+metrics: "accuracy"
+loss : "categorical_crossentropy"
+
