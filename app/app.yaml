@@ -1,0 +1,4 @@
+data1 : "C:/Users/chahinez/Documents/hands-on-2021/app/Imagedata.csv"
+model2 : "C:/Users/chahinez/Documents/hands-on-2021/models/traffic_signs_2021-03-28_17-45-02.h5"
+IMAGE_HEIGHT : 30
+IMAGE_WIDTH : 30
