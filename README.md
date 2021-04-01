@@ -4,7 +4,7 @@ Build a model and an interface to classify traffic signs (GTSRB dataset).
 
 ## Description
 
-In this repository, you will find the elements that have allowed us to build a traffic sign recognition model that has been trained on more than 30,000 images. An interface has been specially designed to observe the recognition of the type of road signs.
+In this repository, you will find the elements that have allowed us to build a traffic sign recognition model that has been trained on more than 30,000 images. An interface on Dash has been specially designed to observe the recognition of the type of road signs.
 
 ## Install
 
